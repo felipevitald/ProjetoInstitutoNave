@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/joaoalberto/IdeaProjects/nave-project/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/joaoalberto/IdeaProjects/nave-project/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/joaoalberto/IdeaProjects/nave-project/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/joaoalberto/IdeaProjects/nave-project/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/joaoalberto/IdeaProjects/nave-project/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/joaoalberto/IdeaProjects/nave-project/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/joaoalberto/IdeaProjects/nave-project/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/joaoalberto/IdeaProjects/nave-project/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/joaoalberto/IdeaProjects/nave-project/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
